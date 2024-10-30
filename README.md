@@ -114,6 +114,8 @@ https://quiz-quest-zeta.vercel.app/
 │   │   │   ├── Spotlight.jsx
 │   │   │   ├── navbar.jsx
 │   │   │   └── ui/
+│   │   │       ├── 3d-card.jsx
+│   │   │       ├── Timeline.jsx
 │   │   │       ├── button.jsx
 │   │   │       ├── card.jsx
 │   │   │       ├── checkbox.jsx
@@ -122,12 +124,14 @@ https://quiz-quest-zeta.vercel.app/
 │   │   │       └── select.jsx
 │   │   ├── images/
 │   │   │   ├── google-img.jpg
-│   │   │   └── right-img.svg
+│   │   │   ├── right-img.svg
+│   │   │   └── signupss.png
 │   │   ├── index.css
 │   │   ├── lib/
 │   │   │   └── utils.js
 │   │   ├── main.jsx
 │   │   └── pages/
+│   │       ├── About.jsx
 │   │       ├── Error404.jsx
 │   │       ├── Login.jsx
 │   │       ├── Signup.jsx
