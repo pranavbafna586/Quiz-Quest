@@ -32,6 +32,9 @@
 - Express.js
 - MongoDB
 
+**##Frontend Deployment Link**
+https://quiz-quest-zeta.vercel.app/
+
 ## Project Structure
 
 <!-- START_STRUCTURE -->
@@ -125,6 +128,7 @@
 │   │   │   └── utils.js
 │   │   ├── main.jsx
 │   │   └── pages/
+│   │       ├── Error404.jsx
 │   │       ├── Login.jsx
 │   │       ├── Signup.jsx
 │   │       ├── create.jsx
